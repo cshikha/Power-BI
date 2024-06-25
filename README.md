@@ -16,6 +16,8 @@ This dashboard visualizes profit earned by the product sales of an MNC against v
 
 ### Super Store Sales Dashboard
 
+This dashboard visualizes sales parameters of a US Super Store against different headers such as product categories, order priority, region and shows other relevant details as well.
+
 ![Screenshot](https://github.com/cshikha/Power-BI/blob/main/Super%20Store%20Sales%20Dashboard/US%20Super%20Store%20Sales%20Dashboard.png)
 
 
