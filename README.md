@@ -16,6 +16,6 @@ This dashboard visualizes profit earned by the product sales of an MNC against v
 
 ### Super Store Sales Dashboard
 
-
+![Screenshot](https://github.com/cshikha/Power-BI/blob/main/Super%20Store%20Sales%20Dashboard/US%20Super%20Store%20Sales%20Dashboard.png)
 
 
