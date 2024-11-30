@@ -17,7 +17,7 @@ This dashboard visualizes profit earned by the product sales of an MNC against v
 ### Office SUpplies Dashboard
 This dashboard aims to represent the various stationary items against different parameters like units ordered, unit price, region of purchase, representatives and order date for a firm. It is a dynamic dashboard and quickly highlights the essential details needed to know from where and when the business is thriving and where are regions of lower sales.
 
-![Screetshot]()
+![Screenshot](https://github.com/cshikha/Power-BI/blob/main/Office%20Supplies%20Dashboard/Office%20Supplies%20Dasboard.png)
 
 ### Super Store Sales Dashboard
 
