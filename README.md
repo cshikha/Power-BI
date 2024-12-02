@@ -19,6 +19,11 @@ This dashboard aims to represent the various stationary items against different 
 
 ![Screenshot](https://github.com/cshikha/Power-BI/blob/main/Office%20Supplies%20Dashboard/Office%20Supplies%20Dasboard.png)
 
+### Unemployment Dashboard
+This dashboard represents the statistics of unemployed people in a state based on various parameters such as age groups, gender, year and month. It is a good way to figure out the trend of unemployment based on different metrics.
+
+![Screenshot](https://github.com/cshikha/Power-BI/blob/main/Unemployment%20Dashboard/Unemployment_Dashboard.png)
+
 ### Super Store Sales Dashboard
 
 This dashboard visualizes sales parameters of a US Super Store against different headers such as product categories, order priority, region and shows other relevant details as well.
